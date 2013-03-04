@@ -6,5 +6,5 @@ for specifying elasticity requirements.
 
 References
 ====================
-www.dsg.tuwien.ac.at/prototypes/SYBL/index.html
+www.dsg.tuwien.ac.at/prototypes/SYBL/index.html \n
 SYBL: an Extensible Language for Controlling Elasticity in Cloud Applications, CCGRID, May 13-17 2013
